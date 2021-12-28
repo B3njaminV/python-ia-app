@@ -1,5 +1,27 @@
-	Liste des bibliothèques utilisés :
-	----------------------------------
+<h1 align="center">IA Python 👋</h1>
+
+> Intelligence Artificielle en Python permettant d'identifier les races de chiens
+
+### 🏠 [Homepage](https://github.com/Benjamin158/python-ia-app)
+
+## Prerequisites
+
+- Python 3.7
+
+
+## Author
+
+👤 **VALLEIX Benjamin**
+
+* Github: [@Benjamin158](https://github.com/Benjamin158)
+* LinkedIn: [@Benjamin VALLEIX](https://www.linkedin.com/in/benjamin-valleix-27115719a)
+
+👤 **MARTIN Vincent**
+
+* Github: [@VincentMart](https://github.com/VincentMart)
+
+
+## 🤝 Library
 
 - os > gère le parcours de fichiers
 - OpenCV > permet de traiter nos images 
@@ -8,3 +30,26 @@
 - sklearn > normalisation de nos données / apprentissage automatique
 - tensorflow > création de modèles (séquentiel) / compilation de modèle > surapprentissage
 - matplotlib.pyplot > visualisation de nos résultats sous forme de graphiques
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+## 📝 License
+
+Copyright © 2021.
+
+***
+## 🛠 Languages
+
+<p> 
+    <a href="https://jupyter.org/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> 
+    </a> 
+    <a href="https://www.python.org/" target="_blank"> 
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank"> 
+        <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+    </a>
+</p>
