@@ -4,6 +4,8 @@
 
 ### 🏠 [Homepage](https://github.com/Benjamin158/python-ia-app)
 
+### 📌 [Télécharger DataSet](https://www.kaggle.com/jessicali9530/stanford-dogs-dataset/download)
+
 ## Prérequis
 
 - Python 3.7
