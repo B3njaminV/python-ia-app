@@ -4,12 +4,12 @@
 
 ### 🏠 [Homepage](https://github.com/Benjamin158/python-ia-app)
 
-## Prerequisites
+## Prérequis
 
 - Python 3.7
 
 
-## Author
+## Auteur
 
 👤 **VALLEIX Benjamin**
 
@@ -21,7 +21,7 @@
 * Github: [@VincentMart](https://github.com/VincentMart)
 
 
-## 🤝 Library
+## 🤝 Librairie
 
 - os > gère le parcours de fichiers
 - OpenCV > permet de traiter nos images 
@@ -31,23 +31,20 @@
 - tensorflow > création de modèles (séquentiel) / compilation de modèle > surapprentissage
 - matplotlib.pyplot > visualisation de nos résultats sous forme de graphiques
 
-## Show your support
-
-Give a ⭐️ if this project helped you!
 
 ## 📝 License
 
 Copyright © 2021.
 
-***
+
 ## 🛠 Languages
 
 <p> 
     <a href="https://jupyter.org/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg" alt="jupyter" width="40" height="40"/> 
+        <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-icon.svg" alt="jupyter" width="40" height="40"/> 
     </a> 
     <a href="https://www.python.org/" target="_blank"> 
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg" alt="python" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="python" width="40" height="40"/>
     </a>
     <a href="https://git-scm.com/" target="_blank"> 
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
