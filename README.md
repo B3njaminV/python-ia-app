@@ -7,6 +7,10 @@
 ## Prérequis
 
 - Python 3.7
+- Scikit-learn 1.0.1
+- Tensorflow 2.7.0
+- Jupyter 1.0.0
+- OpenCV 4.5.6
 
 
 ## Auteur
@@ -29,7 +33,7 @@
 - pandas > manipulation / analyse de nos données
 - sklearn > normalisation de nos données / apprentissage automatique
 - tensorflow > création de modèles (séquentiel) / compilation de modèle > surapprentissage
-- matplotlib.pyplot > visualisation de nos résultats sous forme de graphiques
+- matplotlib > visualisation de nos résultats sous forme de graphiques
 
 
 ## 📝 License
