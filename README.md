@@ -11,6 +11,7 @@
 - Tensorflow 2.7.0
 - Jupyter 1.0.0
 - OpenCV 4.5.6
+- Numpy 1.21.5
 
 
 ## Auteur
