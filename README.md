@@ -1,4 +1,4 @@
-<h1 align="center">IA Python 👋</h1>
+<h1 align="center">IA Recognition 👋</h1>
 
 > Intelligence Artificielle en Python permettant d'identifier les races de chiens
 
