@@ -4,6 +4,8 @@
 
 ### 🏠 [Homepage](https://github.com/Benjamin158/python-ia-app)
 
+![image](./image.png)
+
 ### 📌 [Télécharger DataSet](https://drive.google.com/drive/folders/1uf42g9Ztu4GBw5Bk619MqCNjxYxCflOt?usp=sharing)
 
 ## Prérequis
